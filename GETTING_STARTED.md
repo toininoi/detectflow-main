@@ -1,4 +1,5 @@
 # Getting Started
+_For the general architecrute and other info about DetectFlow, see [README.md](README.md)._
 
 DetectFlow matches log events from Kafka topics with Sigma detection rules and tags each matched event with additional metadata related to the matched rules:
 - ID
