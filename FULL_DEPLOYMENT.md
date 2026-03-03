@@ -1,4 +1,6 @@
 # Full Deployment
+_For the general architecrute and other info about DetectFlow, see [README.md](README.md)._
+
 Deployment should be performed by a person with expertise in Kubernetes and admin access to the Kubernetes Cluster provided for this project.
 
 Configuration files for K8S can be found in this [folder](https://github.com/socprime/detectflow-main/tree/main/detectflow_kubernetes_config_files) 
